@@ -1,0 +1,8 @@
+drwxr-xr-x    6 another1   another1         4096 Apr 20 16:04 .
+drwxr-xr-x   24 another1   another1         4096 Apr 20 16:03 ..
+drwxr-xr-x    2 another1   another1         4096 Apr 20 16:03 langs
+-rw-r--r--    1 another1   another1        26427 Apr 20 16:04 license.txt
+drwxr-xr-x   44 another1   another1         4096 Apr 20 16:04 plugins
+drwxr-xr-x    3 another1   another1         4096 Apr 20 16:04 skins
+drwxr-xr-x    3 another1   another1         4096 Apr 20 16:04 themes
+-rw-r--r--    1 another1   another1       301884 Apr 20 16:04 tinymce.min.js

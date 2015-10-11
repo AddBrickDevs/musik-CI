@@ -1,0 +1,9 @@
+drwxr-xr-x    3 another1   another1         4096 Apr 20 16:02 .
+drwxr-xr-x   24 another1   another1         4096 Apr 20 16:03 ..
+-rw-r--r--    1 another1   another1        22814 Apr 20 16:02 jquery.inputmask.date.extensions.js
+-rw-r--r--    1 another1   another1         5315 Apr 20 16:02 jquery.inputmask.extensions.js
+-rw-r--r--    1 another1   another1        90575 Apr 20 16:02 jquery.inputmask.js
+-rw-r--r--    1 another1   another1         9118 Apr 20 16:02 jquery.inputmask.numeric.extensions.js
+-rw-r--r--    1 another1   another1         1576 Apr 20 16:02 jquery.inputmask.phone.extensions.js
+-rw-r--r--    1 another1   another1         9394 Apr 20 16:02 jquery.inputmask.regex.extensions.js
+drwxr-xr-x    2 another1   another1         4096 Apr 20 16:02 phone-codes

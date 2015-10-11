@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: 
+
+User-agent: *
+Disallow: /music/musik/getusersOnline/
+Disallow: /music/getActivity/

@@ -1,0 +1,11 @@
+drwxr-xr-x    4 another1   another1         4096 Apr 20 16:04 .
+drwxr-xr-x    6 another1   another1         4096 Apr 20 15:59 ..
+-rw-r--r--    1 another1   another1        58533 Jun 24 15:15 bootstrap.js
+-rw-r--r--    1 another1   another1        27822 Jun 24 15:15 bootstrap.min.js
+drwxr-xr-x    2 another1   another1         4096 Apr 20 15:59 core
+-rw-r--r--    1 another1   another1         1454 Jun 24 15:15 custom.js
+-rw-r--r--    1 another1   another1        30704 Jun 24 15:15 fileinput.js
+-rw-r--r--    1 another1   another1        16089 Jun 24 15:15 fileinput.min.js
+-rw-r--r--    1 another1   another1       248583 Jun 24 15:15 jquery-ui-1.10.3.js
+-rw-r--r--    1 another1   another1       131019 Jun 24 15:15 jquery-ui-1.10.3.min.js
+drwxr-xr-x   24 another1   another1         4096 Apr 20 16:03 plugins

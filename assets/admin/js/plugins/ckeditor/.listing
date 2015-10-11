@@ -1,0 +1,14 @@
+drwxr-xr-x    6 another1   another1         4096 Apr 20 16:01 .
+drwxr-xr-x   24 another1   another1         4096 Apr 20 16:03 ..
+-rw-r--r--    1 another1   another1        44082 Apr 20 16:01 CHANGES.md
+-rw-r--r--    1 another1   another1        68193 Apr 20 16:01 LICENSE.md
+-rw-r--r--    1 another1   another1         1344 Apr 20 16:01 README.md
+drwxr-xr-x    2 another1   another1         4096 Apr 20 16:00 adapters
+-rw-r--r--    1 another1   another1         2310 Apr 20 16:01 build-config.js
+-rw-r--r--    1 another1   another1       459952 Apr 20 16:01 ckeditor.js
+-rw-r--r--    1 another1   another1         1321 Apr 20 16:01 config.js
+-rw-r--r--    1 another1   another1         1727 Apr 20 16:01 contents.css
+drwxr-xr-x    2 another1   another1         4096 Apr 20 16:00 lang
+drwxr-xr-x   16 another1   another1         4096 Apr 20 16:01 plugins
+drwxr-xr-x    3 another1   another1         4096 Apr 20 16:01 skins
+-rw-r--r--    1 another1   another1         3483 Apr 20 16:01 styles.js

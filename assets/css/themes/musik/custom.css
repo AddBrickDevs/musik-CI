@@ -1,0 +1,333 @@
+.icon-spin {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+.musicbar.hide{
+	display:none !important;
+}
+.truncate{
+	   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#containerChat {
+    position: absolute;
+    bottom: 50px;
+    width: 100%;
+    height: 330px;
+    z-index: 10;
+    pointer-events: none;
+     overflow-y:hidden;
+
+}
+#containerChat li{
+
+    display: block;
+    width: 300px;
+    height: 330px;
+    margin-left: 5px;
+    background-color: #FFFFFF;
+    float: right;
+    
+    -moz-box-shadow: 0px 1px 3px #000000;
+  -webkit-box-shadow: 0px 1px 3px #000000;
+  box-shadow: 0px 1px 3px #000000;
+    pointer-events: all;
+
+}
+#containerChat li .input-group{
+  padding: 10px;
+  background-color: #F0F0F0;
+  border-top: 1px #E3E3E3 solid;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+#containerChat li .header-chat{
+  background-color: #222222;
+  width: 100%;
+  height: 30px;
+  color: #E3E3E3;
+
+}
+#containerChat li .header-chat.new{
+  background-color: #4CB6CB;
+  
+
+}
+.progress-bar
+{
+   -webkit-transition: none;
+   transition: none;
+  -mz-transition: none;
+}
+#containerChat li .header-chat .btn-profile{
+  cursor: pointer;
+}
+#containerChat li .header-chat img{
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-right: 5px;
+}
+#containerChat li .fa {
+ cursor: pointer;
+ opacity: 0.2;
+ margin-top: 2px;
+}
+#containerChat li .fa:hover {
+ 
+ opacity: 1;
+}
+#containerChat li .main-chat{
+  display: block;
+  overflow-y: none;
+  overflow-x: auto;
+  height: 245px;
+  width: 100%;
+  background-color: #FFFFFF;
+  margin-bottom: 3px;
+
+}
+#containerChat li .shortcode-main .avatar-chat{
+  display: none;
+}
+
+.show-when-playing{
+
+}
+#containerChat li .main-chat .me{
+  
+background-color: #FFFFFF;
+  color: #5D5D5D;
+  margin: 0px;  
+  margin-top: 0px;  
+  margin-bottom: 0px;  
+  padding: 0px;  
+  text-align: left;
+  border-radius: 0px;
+  margin: 0px;
+
+}
+
+#containerChat li .main-chat .friend .fa{
+  float: right;
+  margin-left: 5px;
+}
+#containerChat li .main-chat .friend{
+  
+  background-color: #FFFFFF;
+  color: #4CB6CB;
+  margin: 0px; 
+  margin-bottom: 0px;   
+  margin-top: 0px;   
+  padding: 0px;
+  margin: 0px;
+
+  text-align: left;
+  border-radius: 0px;
+
+
+}
+#containerChat li .main-chat .history{
+  margin-top: 5px;
+  cursor: pointer;
+  color: #BFBFBF;
+}
+#containerChat li input,#containerChat li button{
+  border-radius: 0px;
+}
+#containerChat li input.offline{
+  background-color: #DCDCDC;
+}
+#containerChat li input.danger{
+  background-color: #343434;
+  
+}
+#containerChat li .header-chat p{
+  
+  text-align: center;
+  width: auto;
+}
+#containerChat li .header-chat p,#containerChat li .main-chat p{
+  padding: 5px;
+
+}
+.thumb-sm.avatar img
+{
+  max-height: 50px;
+  max-width: 50px; 
+}
+.thumb,.avatar img{
+  max-height: 50px;
+  max-width: 50px;
+}
+#station-caption h2
+{
+  color: #FFFFFF;
+  text-shadow:0px 0px 5px #000000;
+}
+.visibility
+{
+  display: block;
+  visibility:visible;
+  background-color: rgba(0,0,0,0.8);
+ position: fixed !important;
+
+}
+.no_visibility
+{
+  display: block;
+  visibility:hidden;
+   position: absolute !important;
+  left: -99999px !important;
+}
+
+#circleG {
+    background: transparent url("images/loader.gif") no-repeat center center;
+    width: 100px;
+    height: 50px;
+    margin: 0 auto 0;
+    border: 0px #E6E6E6 solid;
+    margin-top: 25%;
+}
+
+
+#playlist-items
+{
+
+font-size: 0.9em;
+  background-color: #222222;
+
+  
+
+}
+#playlist-items a.list-group-item 
+{
+  border-radius: 0px;
+}
+.hidePlayer{
+  position: absolute;
+  left: -99999px !important;
+}
+#random
+{
+  opacity: 0.5;
+}
+#random.active{
+  opacity: 1;
+}
+.slider-handle{
+  display: none;
+}
+.slider-handle.round{
+  display: block;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 590px !important;
+}
+#sidebar.hide{
+  display: none !important;
+}
+#youtubeVideoModal .modal-content
+{
+  background-color: #000000;
+  color: #FFFFFF;
+}
+#youtubeVideoModal .close
+{
+  color: #FFF;
+}/*
+.visibility
+{
+  display: block;
+  position: relative;
+  background-color: rgba(0,0,0,0.8);
+}
+.no_visibility
+{
+  display: block;
+  position: absolute;
+  left:99999px;
+  top:-99999px;
+}
+*/
+.carousel .item img{
+  border-radius: 4px;
+}
+.carousel .carousel-caption{
+  background-color: rgba(0,0,0,.7);
+  width: 100%;
+  left: 0px;
+  right: 0px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.carousel-indicators
+{
+  bottom: 0px;
+}
+.carousel .carousel-caption h2{
+  padding: 0px;
+  margin: 0px;
+  width: auto;
+  display: block;
+  float: left;
+
+
+}
+#artistInfo,#trackInfo
+{
+  cursor: pointer;
+}
+ .banner { width: 728px; min-height: 90px;margin: 10px auto 10px}
+ .banner_sidebar { margin:0 auto 0;width: 200px; min-height: 200px;}
+ @media(min-width: 360px) { .banner { width: 250px !important; height: 250px !important; } }
+ @media(min-width: 500px) { .banner { width: 468px !important; height: 60px !important; } }
+ @media(min-width: 800px) { .banner { width: 728px !important; height: 90px !important; } }
+
+div.blockMsg {
+    width:  40%;
+    top:    30%;
+    left:   30%;
+    text-align: center;
+    background-color: #2B2B2B;
+    border: 1px solid #3B3B3B;    
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; 
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50); 
+    -moz-opacity:.70;
+    opacity:.70;
+    padding: 15px;
+    color: #fff;
+}
+.badges-gray{
+  
+  opacity: 0.07;
+
+}
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
